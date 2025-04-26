@@ -41,15 +41,14 @@
 <div align="center">
   <h2>🐍 My Contributions</h2>
   <br />
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnasNasr-afk/AnasNasr-afk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnasNasr-afk/AnasNasr-afk/output/github-contribution-grid-snake.svg" />
   <br />
-
-  
 </div>
 
 <hr />
 
 <h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnasNasr-afk&show_icons=true&theme=radical" />
   <br />
