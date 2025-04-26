@@ -50,9 +50,17 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasNasr-afk&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasNasr-afk&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasNasr-afk&layout=compact&theme=radical" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=AnasNasr-afk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AnasNasr-afk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasNasr-afk&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+%3A)" />
+  </a>
+</h3>
