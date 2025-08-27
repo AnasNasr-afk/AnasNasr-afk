@@ -8,15 +8,15 @@
   </a>
 </h1>
 
-<h3 align="center">A Passionate Mobile Developer From Cairo</h3>
+<h3 align="center">A Passionate Mobile & Flutter Developer From Cairo</h3>
 
-<br/>
+---
 
 <div align="center">
-  Ask me about <strong>Flutter, RestAPIs, Firebase, XCode</strong>
+  Ask me about <strong>Flutter, Swift, Firebase, AI Integration, REST APIs</strong>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <a href="mailto:anas.nasr132003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
@@ -25,22 +25,34 @@
   </a>
 </div>
 
-<hr />
+---
 
-<h2 align="center">🚀 Languages - Frameworks - Tools</h2>
+## 📱 Featured App
+
+### **CairoCrew – My Latest App on Google Play**
+A community-driven Flutter app enabling citizens to report urban issues (garbage, potholes, broken lights, etc.) using maps, GPS, and cloud-based submissions.  
+
+[![Download on Play Store](https://img.shields.io/badge/Google%20Play-Download-brightgreen?logo=google-play)](https://play.google.com/store/apps/details?id=com.anasnasr.cairocrew)
+
+---
+
+## 🌐 Portfolio & Profiles
+- **Portfolio Website:** [anasnasr.vercel.app](https://anasnasr.vercel.app)
+- **LinkedIn:** [https://www.linkedin.com/in/anasnasr](https://www.linkedin.com/in/anasnasr)  
+
+---
+
+## 🚀 Languages - Frameworks - Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,figma,java,python,cs,tensorflow,html,css,javascript,mysql" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,swift,firebase,git,github,vscode,figma,java,python,cs,tensorflow,html,css,javascript,mysql" />
   </a>
 </div>
 
-<br />
-<hr />
+---
 
-
-
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=AnasNasr-afk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -49,11 +61,16 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasNasr-afk&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-<hr/>
+---
+
+## 🏆 Highlight
+
+- **Google AI Hackathon 2025** – Built **SAVE SAVEY**, an AI-powered finance tracker with receipt scanning and chat features.
+
+---
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+%3A)" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Check+out+my+apps+on+Google+Play!;+Let's+connect+and+collaborate!+%3A)" />
   </a>
 </h3>
