@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h3 align="center">A Passionate Mobile & Flutter Developer From Cairo</h3>
+<h3 align="center">Mobile Software Engineer From Cairo</h3>
 
 ---
 
@@ -29,7 +29,12 @@
 
 ## 📱 Featured App
 
-### **CairoCrew – My Latest App on Google Play**
+### **Sound'sCool – My Latest App on Google Play**
+Sounds Cool helps language learners improve their speaking and pronunciation through AI-powered practice.
+
+[![Download on Play Store](https://img.shields.io/badge/Google%20Play-Download-brightgreen?logo=google-play)](https://play.google.com/store/apps/details?id=com.anasnasr.soundscool)
+
+### **CairoCrew – Live on Google Play**
 A community-driven Flutter app enabling citizens to report urban issues (garbage, potholes, broken lights, etc.) using maps, GPS, and cloud-based submissions.  
 
 [![Download on Play Store](https://img.shields.io/badge/Google%20Play-Download-brightgreen?logo=google-play)](https://play.google.com/store/apps/details?id=com.anasnasr.cairocrew)
