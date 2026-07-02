@@ -19,11 +19,17 @@ _Crafting polished, AI-powered mobile experiences with **Flutter** & **Swift**._
 <a href="https://anasnasr.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0E8058?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/anas-nasr-8a9925255">
+<a href="https://www.linkedin.com/in/anasnasr">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:anas.nasr132003@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://wa.me/201024793905">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://play.google.com/store/apps/developer?id=Anas+Nasr">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
 </a>
 
 </div>
@@ -195,11 +201,17 @@ I'm always open to collaborating on **impactful mobile & AI projects**.
 <a href="https://anasnasr.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0E8058?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/anas-nasr-8a9925255">
+<a href="https://www.linkedin.com/in/anasnasr">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:anas.nasr132003@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://wa.me/201024793905">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://play.google.com/store/apps/developer?id=Anas+Nasr">
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
 </a>
 
 <br/><br/>
