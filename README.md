@@ -144,28 +144,6 @@ An AI-powered **finance tracker** with receipt scanning and chat features — bu
 
 ---
 
-<!-- ============================================= -->
-<!--                GITHUB STATS                   -->
-<!-- ============================================= -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasNasr-afk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&bg_color=0D1117&title_color=0E8058&icon_color=0E8058" alt="GitHub stats" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=AnasNasr-afk&count_private=true&theme=react&border_radius=10&hide_border=true&background=0D1117&ring=0E8058&fire=0E8058&currStreakLabel=0E8058" alt="GitHub streak" />
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasNasr-afk&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true&bg_color=0D1117&title_color=0E8058&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnasNasr-afk&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-</div>
-
----
 
 <!-- ============================================= -->
 <!--                ACHIEVEMENTS                   -->
