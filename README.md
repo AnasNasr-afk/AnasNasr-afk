@@ -1,10 +1,7 @@
-<!-- ============================================= -->
 <!--                   HEADER                      -->
 <!-- ============================================= -->
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAnasNasr-afk">
-  <img align="right" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FAnasNasr-afk&label=PROFILE%20VIEWS&countColor=%230E8058&style=flat-square" alt="Profile views" />
-</a>
+
 
 <div align="center">
 
